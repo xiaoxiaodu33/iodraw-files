@@ -97,8 +97,8 @@
         <mxCell id="TP1bBEEHx2swJRKKY4V_-25" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;是否存在对应用户&lt;/p&gt;" style="rhombus;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rotation=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="153.75" y="650" width="132.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TP1bBEEHx2swJRKKY4V_-27" value="返回登录失败提示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="780" width="120" height="40" as="geometry" />
+        <mxCell id="TP1bBEEHx2swJRKKY4V_-27" value="创建用户记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="780" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
