@@ -132,6 +132,9 @@
             <mxPoint x="359.5" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TP1bBEEHx2swJRKKY4V_-37" value="后端服务校验登录凭证是否合法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
