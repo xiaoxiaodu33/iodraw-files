@@ -94,8 +94,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TP1bBEEHx2swJRKKY4V_-25" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;校验登录凭证是否合法&lt;/p&gt;" style="rhombus;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rotation=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="163.75" y="540" width="132.5" height="70" as="geometry" />
+        <mxCell id="TP1bBEEHx2swJRKKY4V_-25" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;是否存在对应用户&lt;/p&gt;" style="rhombus;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rotation=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="153.75" y="650" width="132.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
