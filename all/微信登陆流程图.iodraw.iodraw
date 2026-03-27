@@ -80,7 +80,7 @@
         <mxCell id="TP1bBEEHx2swJRKKY4V_-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TP1bBEEHx2swJRKKY4V_-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="460" as="sourcePoint" />
-            <mxPoint x="510" y="510" as="targetPoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
