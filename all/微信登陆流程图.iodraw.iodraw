@@ -16,7 +16,7 @@
           <mxGeometry x="153.75" y="515" width="132.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TP1bBEEHx2swJRKKY4V_-3" value="小程序登录页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TP1bBEEHx2swJRKKY4V_-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TP1bBEEHx2swJRKKY4V_-4" target="TP1bBEEHx2swJRKKY4V_-6">
           <mxGeometry relative="1" as="geometry" />
