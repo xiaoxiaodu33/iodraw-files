@@ -129,6 +129,9 @@
         <mxCell id="TP1bBEEHx2swJRKKY4V_-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="960" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TP1bBEEHx2swJRKKY4V_-52" value="```mermaid&#xa;flowchart TD&#xa;    A([开始]) --&gt; B[用户点击微信登录]&#xa;    B --&gt; C[前端获取登录凭证并发送请求]&#xa;    C --&gt; D{后端校验凭证}&#xa;    D -- 否 --&gt; E[返回登录失败提示]&#xa;    E --&gt; F([结束])&#xa;    D -- 是 --&gt; G[查询或创建用户信息]&#xa;    G --&gt; H[生成登录状态并返回结果]&#xa;    H --&gt; I[前端保存状态并进入首页]&#xa;    I --&gt; F&#xa;&#xa;&#xa;```" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="280" width="250" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
