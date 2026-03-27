@@ -21,6 +21,11 @@
             <mxPoint x="390" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TP1bBEEHx2swJRKKY4V_-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-8">
+          <mxGeometry x="-0.2796" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;校验登录凭证是否合法&lt;/p&gt;" style="rhombus;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rotation=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="153.75" y="530" width="132.5" height="70" as="geometry" />
         </mxCell>
@@ -66,8 +71,8 @@
             <mxPoint x="219.5" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TP1bBEEHx2swJRKKY4V_-14" value="发送登录请求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="TP1bBEEHx2swJRKKY4V_-14" value="返回登录失败提示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="545" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
