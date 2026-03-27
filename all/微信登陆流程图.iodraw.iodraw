@@ -65,7 +65,7 @@
             <mxPoint x="420" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TP1bBEEHx2swJRKKY4V_-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TP1bBEEHx2swJRKKY4V_-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="TP1bBEEHx2swJRKKY4V_-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="219.5" y="585" as="sourcePoint" />
             <mxPoint x="219.5" y="635" as="targetPoint" />
@@ -73,7 +73,7 @@
         </mxCell>
         <mxCell id="TP1bBEEHx2swJRKKY4V_-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TP1bBEEHx2swJRKKY4V_-23">
           <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
-            <mxPoint x="-1" y="-35" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TP1bBEEHx2swJRKKY4V_-25" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;是否存在对应用户&lt;/p&gt;" style="rhombus;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rotation=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
